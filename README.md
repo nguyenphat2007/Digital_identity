@@ -14,7 +14,7 @@ Traditional CVs and resumes are easily falsified or exaggerated. In the digital 
 * **Contract Address:** `CDIFWAD74RR5KLCN2WAA6FKQSNY2EM2CCU4THYFARBXZG3SEQXT66CIN`
 * **Contract Interaction Link:** [View Transaction on Stellar Expert](https://stellar.expert/explorer/testnet/tx/421c389fcaa5b051bab97ba0e68117c1cbc41727eaf83c27bac2289a10ee3ca5)
 
-![Contract Screenshot](<img width="1680" height="1050" alt="image" src="https://github.com/user-attachments/assets/10c59e41-bfd8-43cd-8d54-91fe014de2fb" />
+![Contract Screenshot](<img width="1680" height="1050" alt="image" src="https://github.com/user-attachments/assets/a1b4b9e0-b7f2-4849-b033-8e58f3213957" />
 )
 
 # Future scopes
