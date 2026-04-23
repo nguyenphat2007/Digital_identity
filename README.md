@@ -14,8 +14,8 @@ Traditional CVs and resumes are easily falsified or exaggerated. In the digital 
 * **Contract Address:** `CB3J4CZUVLTL3FUACQCQJOM2MYXVXUTSR33GYSTLKAQOPB7ZKV7QERZE`
 * **Contract Interaction Link:** [View Transaction on Stellar Expert](https://stellar.expert/explorer/testnet/tx/3d2f1c6af17312170bd16843685a03ce3e0e137278bd7296b8cbe572cddc3b19)
 
-*(Lưu ý cho Phát: Bạn hãy xóa dòng chữ in nghiêng này đi và chèn ảnh chụp màn hình lúc bạn tương tác test contract trên Soroban Studio xuống ngay bên dưới nhé)*
-![Contract Screenshot]()
+<img width="1680" height="1050" alt="image" src="https://github.com/user-attachments/assets/e376c0de-1bd2-4317-91d0-a7ffb86064dd" />
+
 
 # Future scopes
 * **Web3 Recruitment Integration:** Creating an API to allow employers and job platforms to query a candidate's reputation score directly from the Stellar blockchain.
