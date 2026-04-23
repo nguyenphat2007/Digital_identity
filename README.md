@@ -11,11 +11,11 @@ Traditional CVs and resumes are easily falsified or exaggerated. In the digital 
 * **Dynamic Reputation Score:** A user's trust level grows strictly based on on-chain endorsements, making it a reliable metric for competencies.
 
 # Contract
-* **Contract Address:** `CDIFWAD74RR5KLCN2WAA6FKQSNY2EM2CCU4THYFARBXZG3SEQXT66CIN`
-* **Contract Interaction Link:** [View Transaction on Stellar Expert](https://stellar.expert/explorer/testnet/tx/421c389fcaa5b051bab97ba0e68117c1cbc41727eaf83c27bac2289a10ee3ca5)
+* **Contract Address:** `CB3J4CZUVLTL3FUACQCQJOM2MYXVXUTSR33GYSTLKAQOPB7ZKV7QERZE`
+* **Contract Interaction Link:** [View Transaction on Stellar Expert](https://stellar.expert/explorer/testnet/tx/3d2f1c6af17312170bd16843685a03ce3e0e137278bd7296b8cbe572cddc3b19)
 
-<img width="1680" height="1050" alt="image" src="https://github.com/user-attachments/assets/ac5f7e7a-7186-42eb-819c-926cae06c45c" />
-
+*(Lưu ý cho Phát: Bạn hãy xóa dòng chữ in nghiêng này đi và chèn ảnh chụp màn hình lúc bạn tương tác test contract trên Soroban Studio xuống ngay bên dưới nhé)*
+![Contract Screenshot]()
 
 # Future scopes
 * **Web3 Recruitment Integration:** Creating an API to allow employers and job platforms to query a candidate's reputation score directly from the Stellar blockchain.
